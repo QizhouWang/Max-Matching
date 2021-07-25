@@ -77,7 +77,7 @@ python main.py --dataset=Video
 
 We will release the improved realizations and other applications in the upcoming journal verison. 
 
-Contact: Qizhou Wang (qizhouwang.nanjing@gmail.com); Bo Han (bhanml@comp.hkbu.edu.hk).
+Contact: Qizhou Wang (qizhouwang.nanjing@gmail.com).
 
   
 
