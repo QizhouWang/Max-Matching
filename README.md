@@ -19,7 +19,7 @@ If you find this code useful in your research then please cite
 
 ```bash
 
-@inproceedings{han2018coteaching,
+@inproceedings{wang2021maxmatching,
 title={Learning with Group Noise},
 author={Qizhou Wang and Jiangchao Yao and Chen Gong and Tongliang Liu and Mingming Gong and Hongxia Yang and Bo Han},
 booktitle={AAAI},
