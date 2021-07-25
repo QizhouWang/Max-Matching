@@ -9,7 +9,7 @@ This is the code for the paper:
 
 [Learning with Group Noise](https://arxiv.org/abs/2103.09468)
 
-Qizhou Wang, Jiangchao Yao, Chen Gong, Tongliang Liu, Mingming Gong, Hongxia Yang, Bo Han. 
+Qizhou Wang*, Jiangchao Yao*, Chen Gong, Tongliang Liu, Mingming Gong, Hongxia Yang, Bo Han. 
 
 To be presented at [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
 
